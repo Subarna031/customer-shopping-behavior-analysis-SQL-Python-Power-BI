@@ -50,8 +50,7 @@ Structured queries in PostgreSQL were used to answer key business questions:
 
 An interactive Power BI dashboard was built to present these insights visually, with filters for Subscription Status, Gender, Category, and Shipping Type.
 
-<img width="975" height="530" alt="image" src="https://github.com/user-attachments/assets/f41b13ef-0fa4-4d13-aca0-c095b1532e1a" />
-
+<img width="613" height="357" alt="image" src="https://github.com/user-attachments/assets/26969c49-87c0-4753-90fe-d1f5a82085da" />
 
 **Dashboard highlights:**
 - **KPIs:** 3.9K customers, $59.76 average purchase amount, 3.75 average review rating
